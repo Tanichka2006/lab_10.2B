@@ -1,0 +1,11 @@
+﻿  lab 10.2 B.cpp
+C:\Users\admin\source\repos\lab 10.2 B\lab 10.2 B\lab 10.2 B.cpp(130,37): error C2001: newline in constant
+C:\Users\admin\source\repos\lab 10.2 B\lab 10.2 B\lab 10.2 B.cpp(130,35): error C2171: operator '-' cannot be applied to an operand of type 'const char [11]'
+C:\Users\admin\source\repos\lab 10.2 B\lab 10.2 B\lab 10.2 B.cpp(130,35): error C2105: '--' needs l-value
+C:\Users\admin\source\repos\lab 10.2 B\lab 10.2 B\lab 10.2 B.cpp(130,32): error C2166: l-value specifies const object
+C:\Users\admin\source\repos\lab 10.2 B\lab 10.2 B\lab 10.2 B.cpp(130,30): error C2166: l-value specifies const object
+C:\Users\admin\source\repos\lab 10.2 B\lab 10.2 B\lab 10.2 B.cpp(131,9): error C2143: syntax error: missing ')' before 'for'
+C:\Users\admin\source\repos\lab 10.2 B\lab 10.2 B\lab 10.2 B.cpp(166,80): warning C4018: '<': signed/unsigned mismatch
+C:\Users\admin\source\repos\lab 10.2 B\lab 10.2 B\lab 10.2 B.cpp(223,13): error C2001: newline in constant
+C:\Users\admin\source\repos\lab 10.2 B\lab 10.2 B\lab 10.2 B.cpp(224,11): error C2059: syntax error: '=='
+C:\Users\admin\source\repos\lab 10.2 B\lab 10.2 B\lab 10.2 B.cpp(224,135): error C2001: newline in constant
